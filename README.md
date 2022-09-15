@@ -14,4 +14,4 @@ A challenge by Frontend-mentor
 
 <h3>Conclusion</h3>
 <p>First project made with JavaScript. Several difficulties were overcome until the project was completed.</p>
-<h4>You can see my result here:</h4> https://artur-00.github.io/interactive-rating-component/
+<h4>You can see my result here:</h4> https://artur-00.github.io/Interactive-rating-component/
